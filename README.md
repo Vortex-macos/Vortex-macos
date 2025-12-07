@@ -1,9 +1,11 @@
+![Divider](https://vaxerski.xyz/github/TopGif.gif)
+
 <h1 align="center">👋 Hi, I'm Vortex</h1>
 <h3 align="center">🔥 Developer | Learner | Building Amazing Things</h3>
 
 ---
 
-## 🚀 About Me  
+![Divider](https://vaxerski.xyz/github/aboutme2.gif)  
 Hi, I'm **Vortex**, a passionate learner and developer who loves building creative projects — from AI tools to web applications and programming experiments.
 
 I enjoy exploring new technologies, solving problems, and crafting clean, meaningful code.
@@ -47,7 +49,7 @@ I enjoy exploring new technologies, solving problems, and crafting clean, meanin
 
 ---
 
-# 📊 GitHub Stats:
+![Divider](https://vaxerski.xyz/github/stats1.gif)
 ![](https://github-readme-stats.vercel.app/api?username=Vortex-macos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Vortex-macos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex-macos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
