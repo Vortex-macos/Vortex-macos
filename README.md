@@ -73,7 +73,7 @@ I enjoy exploring new technologies, solving problems, and crafting clean, meanin
 
 # [My Portfolio]
 
-<a href="https://vort-folio.vercel.app/"><img src="../portfolio.png" alt="portfolio"></a>
+<a href="https://vort-folio.vercel.app/"><img src="portfolio.png" alt="portfolio" height="60" border-radius="20%"></a>
 
 ---
 
