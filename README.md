@@ -6,9 +6,11 @@
 ---
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)  
-Hi, I'm **Vortex**, a passionate learner and developer who loves building creative projects — from AI tools to web applications and programming experiments.
+Hi, I’m **Vortex** — a passionate learner, developer, and creator who loves turning ideas into meaningful digital experiences. My journey in technology is driven by curiosity and the desire to understand how things work, whether it’s building AI-powered tools, developing modern web applications, or experimenting with new programming concepts. I enjoy diving deep into different technologies, exploring their possibilities, and discovering how they can be combined to build something innovative and useful.
 
-I enjoy exploring new technologies, solving problems, and crafting clean, meaningful code.
+What excites me most about development is the process of solving problems through clean, efficient, and purposeful code. Every project I work on is an opportunity to learn something new, refine my skills, and challenge myself creatively. I believe that great software is not just about functionality, but also about clarity, structure, and the experience it delivers to people who use it.
+
+Whether I’m designing a small utility, working on a full-scale application, or experimenting with a new framework, I’m always focused on growth and improvement. My goal is to keep expanding my knowledge, build impactful digital products, and contribute to the tech community by sharing ideas, learning openly, and creating projects that inspire others.
 
 ---
 
