@@ -76,8 +76,8 @@ Whether I’m designing a small utility, working on a full-scale application, or
 # [My Websites]
 
 <a href="https://vort-folio.vercel.app/"><img src="portfolio.png" alt="portfolio" height="60" border-radius="20%"></a><br><hr>
-<a href="https://finder-gitac.vercel.app/"><img src="detective.png" alt="portfolio" height="80" border-radius="20%"></a>
-<a href="https://tic-tac-tex.vercel.app/"><img src="[detective.png](https://cdn-icons-png.flaticon.com/512/566/566294.png)" alt="portfolio" height="80" border-radius="20%"></a>
+<a href="https://finder-gitac.vercel.app/"><img src="detective.png" alt="portfolio" height="80" border-radius="20%"></a><hr><br>
+<a href="https://tic-tac-tex.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/566/566294.png" alt="portfolio" height="80" border-radius="20%"></a>
 
 ---
 
